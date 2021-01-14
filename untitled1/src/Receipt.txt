@@ -1,0 +1,12 @@
+
+ham  :  2.00
+milk  :  1.30
+cheesecake  :  2.99
+milk  :  1.30
+cheesecake  :  2.99
+milk  :  1.30
+cheesecake  :  2.99
+cake  :  1.20
+cake  :  1.20
+milk  :  1.30
+total cost: 18.57
